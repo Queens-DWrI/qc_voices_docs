@@ -24,4 +24,3 @@ You need to credit the source of the image in the image caption—this is called
 <br><br>
 5. Check how your image looks by clicking the Preview button under Publish on the right-hand menu. If you don't like the position of the image, you can undo adding the image with Ctrl-Z, put your text insert cursor in a new place, and run through the adding image process again.
 
-

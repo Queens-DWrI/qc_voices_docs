@@ -6,4 +6,5 @@
 * [Add new post](new_post.md)
 * [Media best practices](media.md)
 * [Resize and crop images](resize.md)
+* [Embedding a tweet](embed_tweets.md)
 * [Manage categories](categories.md)
