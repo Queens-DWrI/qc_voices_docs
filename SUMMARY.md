@@ -8,4 +8,5 @@
 * [Resize and crop images](resize.md)
 * [Images Checklist](checklist.md)  
 * [Embedding a tweet](embed_tweets.md)
+* [Embedding a YouTube video](embed_video.md)  
 * [Manage categories](categories.md)
