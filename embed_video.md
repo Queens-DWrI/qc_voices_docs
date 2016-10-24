@@ -25,7 +25,9 @@ Video is rapidly becoming one of the most popular forms of media on the web, and
 
 When you're done, your video should look like this:
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UPxUZOUUMLI" frameborder="0" allowfullscreen></iframe>
+</center>
 
 ### Troubleshooting
 
