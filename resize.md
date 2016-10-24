@@ -1,10 +1,10 @@
 # Resizing and cropping images
 
-One tricky part of contributing to a blog is cropping and resizing images so they fit well in the design of the site. This isn't an exact science, and sometimes will try your patience as you try to get things looking the way you want. [Don't panic!](panic.md) Image editing is a useful skill, and the time you spend on it will pay off later.
+One tricky part of contributing to a blog is cropping and resizing images so they fit well in the design of the site. This isn't an exact science, and will sometimes try your patience as you try to get things looking the way you want. [Don't panic!](panic.md) Image editing is a useful skill, and the time you spend on it will pay off later.
 
 ## Using Pinta
 
-For this section, we'll be using Pinta, a simple photo editing tool available for Windows and OSX. If you already have a favorite image editing tool, feel free to use that to resize and crop images for the blog. Pinta is much simpler to use than Photoshop, and is also free.
+For this section, we'll be using Pinta, a simple photo editing tool available for Windows and OSX. (If you have trouble getting Pinta to install on Windows, use [Paint.NET](http://www.getpaint.net/download.html), which is very similar.) If you already have a favorite image editing tool, feel free to use that to resize and crop images for the blog. Pinta is much simpler to use than Photoshop, and is also free.
 
 ### Crop an image
 

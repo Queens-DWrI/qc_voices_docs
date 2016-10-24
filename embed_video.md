@@ -13,11 +13,9 @@ Video is rapidly becoming one of the most popular forms of media on the web, and
 <li>Copy the text in the box, which should already be selected. It will look something like this:</li>
 </ol>
 
-<center>
 ```
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UPxUZOUUMLI" frameborder="0" allowfullscreen></iframe>
 ```
-</center>
 
 <ol start="5">
 <li>In your blog editing page, click the button that says "Text" that is above and to the right of the main editing area.</li>
