@@ -7,6 +7,7 @@
 * [Media best practices](media.md)
 * [Resize and crop images](resize.md)
 * [Images Checklist](checklist.md)  
+* [Editing Checklist](editing_checklist.md)  
 * [Embedding a tweet](embed_tweets.md)
 * [Embedding a YouTube video](embed_video.md)  
 * [Manage categories](categories.md)
