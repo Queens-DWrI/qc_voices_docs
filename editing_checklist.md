@@ -1,4 +1,4 @@
-# QC Voices Editing Checklist* 
+# QC Voices Editing Checklist
 
 Topic Selection: (Consider these high-level questions at the beginning stages of the editorial process):
 
