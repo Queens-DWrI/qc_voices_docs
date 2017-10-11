@@ -37,8 +37,8 @@ Links look like this in HTML:
 
 	<a href="http://www.google.com">Google</a>
 	
-or link this:
+or like this:
 
-	<a href="http://qcvoices.qwriting.qc.cuny.edu/">Check out the QC Voices website!</a>
+	<a href="http://qcvoices.qwriting.qc.cuny.edu/">Check out the QC Voices websit
 
 
