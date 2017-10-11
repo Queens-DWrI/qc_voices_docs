@@ -39,6 +39,6 @@ Links look like this in HTML:
 	
 or like this:
 
-	<a href="http://qcvoices.qwriting.qc.cuny.edu/">Check out the QC Voices websit
+	<a href="http://qcvoices.qwriting.qc.cuny.edu/">Check out the QC Voices website!</a>
 
 
